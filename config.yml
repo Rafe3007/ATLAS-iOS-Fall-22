@@ -1,1 +1,14 @@
 personal_project: https://github.com/Rafe3007/ATLS-MAD-project
+name: Ramon Fernandez-Garcia
+
+repo_names:
+  - ATLS-MAD-project
+
+# Provide any URLs for your Videos
+10-ux-ui-criticism:
+  - https://www.youtube.com/watch?v=C-CVBxbUlFc&list=PL_OK2cbnXIHBwcglggOLkob76-NcFZaXk&index=1&t=27s&ab_channel=RamonFernandez
+  - https://www.youtube.com/watch?v=Yw8RSTVZxL0&list=PL_OK2cbnXIHBwcglggOLkob76-NcFZaXk&index=2&ab_channel=RamonFernandez
+
+# Provide any URLs for your Data Models assignment
+# 11-models-from-data:
+#   - https://github.com/zef/StarWars/blob/main/StarWars/Person.swift#L16
