@@ -9,7 +9,7 @@ repo_names:
   - https://www.youtube.com/watch?v=C-CVBxbUlFc&list=PL_OK2cbnXIHBwcglggOLkob76-NcFZaXk&index=1&t=27s&ab_channel=RamonFernandez
   - https://www.youtube.com/watch?v=Yw8RSTVZxL0&list=PL_OK2cbnXIHBwcglggOLkob76-NcFZaXk&index=2&ab_channel=RamonFernandez
   
-project-check-in-1: GITHUB_ISSUE_URL
+project-check-in-1: https://github.com/Rafe3007/ATLAS-iOS-Fall-22/issues/1
 
 # Provide any URLs for your Data Models assignment
 # 11-models-from-data:
