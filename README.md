@@ -1,7 +1,12 @@
 # ATLS-MobileAppDev
-I have a couple app ideas:
-- an app where I can be able to track the price of an individual bread or pastry I make using a receipt (either via photo or manually inputted)
 
-App Critique links:
-  Study Pug: https://www.youtube.com/watch?v=C-CVBxbUlFc&list=PL_OK2cbnXIHBwcglggOLkob76-NcFZaXk&index=1&ab_channel=RamonFernandez
-  Park Mobile: https://www.youtube.com/watch?v=Yw8RSTVZxL0&list=PL_OK2cbnXIHBwcglggOLkob76-NcFZaXk&index=2&ab_channel=RamonFernandez 
+App Idea:
+- A game about baking bread which hopefully teaches the user real facts and techniques about the bread
+- Similar to a sushi go 'round game
+  - You will receive visual instruction as to how you will make the bread
+  - You will combine the ingredients by simply tapping the ingredients
+  - Repeat the cycle for the next orders
+  
+ Future additions:
+ - Add Proofing mechanics to help teach people how to proof and/or to ferment
+ 
