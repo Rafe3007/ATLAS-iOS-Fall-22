@@ -8,6 +8,8 @@ repo_names:
 10-ux-ui-criticism:
   - https://www.youtube.com/watch?v=C-CVBxbUlFc&list=PL_OK2cbnXIHBwcglggOLkob76-NcFZaXk&index=1&t=27s&ab_channel=RamonFernandez
   - https://www.youtube.com/watch?v=Yw8RSTVZxL0&list=PL_OK2cbnXIHBwcglggOLkob76-NcFZaXk&index=2&ab_channel=RamonFernandez
+  
+project-check-in-1: GITHUB_ISSUE_URL
 
 # Provide any URLs for your Data Models assignment
 # 11-models-from-data:
